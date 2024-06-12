@@ -1,0 +1,10 @@
+div {
+    color: green;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 2rem;
+    transition: all 0.3s ease-in-out;
+}
+
+div:hover {
+    color: red;
+}
